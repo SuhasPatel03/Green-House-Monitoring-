@@ -19,8 +19,7 @@ This project is built with Flutter framework and uses the following dependencies
 - [Notifications](https://pub.dev/packages/flutter_local_notifications) for notifications
 
 1. Install Flutter by following the instructions on the [Flutter website](https://flutter.dev/docs/get-started/install)
-2. Clone this repository by running: 
-git clone https://github.com/Ala-Mabrouk/MyGreenHouse.git
+2. Clone this repository
 3. Install the required packages by running:
 flutter pub get
 4. The code of the simulation is in "code Circuit ESP32.py" file or you can use the following simulation project for testing :
@@ -35,9 +34,6 @@ email: "bf.foulen@mail.com"
 password: "012345678"
 3. Control your devices and monitor sensor data
     
-## Contact
-
-If you have any questions or would like to get in touch with the me, please email me at [alamabrouk007@gmail.com](mailto:alamabrouk007@gmail.com)
 
 ## Screenshots
 
